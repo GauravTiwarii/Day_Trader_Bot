@@ -1,4 +1,4 @@
-						~~~~~**~~~~~DAY TRADER BOT~~~~~**~~~~~
+				    ~~~~~**~~~~~DAY TRADER BOT~~~~~**~~~~~
 
 
 From the previous learning, we can propagate to the part, where we have regex based filteration on our commands (easiest to start with). 
@@ -67,7 +67,7 @@ NOTE : DEV CAN GATHER ALOT OF HELP FROM PERFORMING LEARNING TESTS ON ZERODHA'S A
 ----------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------
 
-TECHNOLIGIES USED : -->
+TECHNOLOGIES USED : -->
 
 1. LAMBDA using Node.JS
 2. CucumberJS / Ghenkin for BDD
