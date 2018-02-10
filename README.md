@@ -1,0 +1,1 @@
+This bot trades stocks LIKE homosapiens
